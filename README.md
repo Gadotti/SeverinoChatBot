@@ -3,15 +3,15 @@ Chat bot using Microsoft Bot Framwork
 
 
 Language C# <br/>
-Environment Visual Studio 2017
-Framework Microsoft Bot
+Environment Visual Studio 2017 <br/>
+Framework Microsoft Bot <br/>
 
-Requires:
-Azure account
-Luia.ai as NLP
+Requires: <br/>
+Azure account <br/>
+Luia.ai as NLP <br/>
 
-Live demonstration:
-Telegram: @AjudanteSeverinoBot
-Messenger: @AjudanteSeverinoBot
-Slack: @AjudanteSeverinoBot
+Live demonstration: <br/>
+Telegram: @AjudanteSeverinoBot <br/>
+Messenger: @AjudanteSeverinoBot <br/>
+Slack: @AjudanteSeverinoBot <br/>
 Html: [soon]
