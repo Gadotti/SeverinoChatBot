@@ -14,4 +14,4 @@ Live demonstration: <br/>
 Telegram: @AjudanteSeverinoBot <br/>
 Messenger: @AjudanteSeverinoBot <br/>
 Slack: @AjudanteSeverinoBot <br/>
-Html: [soon]
+Html: [AjudanteSeverinoBot-Web.html] File in project
